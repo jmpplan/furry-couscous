@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7A09-676C
+
+ Directory of C:\Users\jmp\source\repos\furry-couscous
+
+23/03/2021  00:32    <DIR>          .
+23/03/2021  00:32    <DIR>          ..
+23/03/2021  00:21               243 README.md
+10/03/2021  23:11                15 recette1.txt
+23/03/2021  00:21                21 recette2.txt
+23/03/2021  00:21                40 recette3.txt
+23/03/2021  00:32                 0 recette4.txt
+11/03/2021  00:10               137 recettes.txt
+               6 File(s)            456 bytes
+               2 Dir(s)  707,534,106,624 bytes free
