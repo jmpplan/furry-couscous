@@ -1,0 +1,17 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7A09-676C
+
+ Directory of C:\Users\jmp\source\repos\furry-merguez
+
+17/05/2021  16:51    <DIR>          .
+17/05/2021  16:51    <DIR>          ..
+17/05/2021  16:51    <DIR>          dir1
+23/03/2021  13:09               121 README.md
+23/03/2021  13:05                95 recette1.md
+17/05/2021  16:48                87 recette2.txt
+23/03/2021  01:37                40 recette3.txt
+23/03/2021  01:37               598 recette4.txt
+23/03/2021  13:04               648 recette5.txt
+11/03/2021  01:10               137 recettes.txt
+               7 File(s)          1,726 bytes
+               3 Dir(s)  645,462,495,232 bytes free
