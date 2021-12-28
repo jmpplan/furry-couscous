@@ -2,8 +2,10 @@ My Project
 ==========
 
 ### furry-couscous
-This is my first test with GitHub
+This is _my_ first test with GitHub
 
-A bit about myself, they said ? 
+A bit **about** myself, they said ? 
 
+## Small change (n°2)
 
+> toto est **content**
