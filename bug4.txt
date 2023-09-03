@@ -1,1 +1,2 @@
-Bug#4 will be fixed
+Bug #4 will be fixed
+Fixed also issue #5
