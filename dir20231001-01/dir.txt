@@ -1,0 +1,32 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7A09-676C
+
+ Directory of C:\Users\jmp\source\repos\furry-merguez
+
+01/10/2023  11:51    <DIR>          .
+01/10/2023  11:51    <DIR>          ..
+03/09/2023  23:53    <DIR>          .github
+04/09/2023  00:29                 8 .gitignore
+28/12/2021  02:06    <DIR>          .vs
+05/09/2023  17:10                41 bug4.txt
+04/09/2023  00:33                19 bug4.txt.bak
+01/09/2023  19:52    <DIR>          dir2
+01/10/2023  11:51    <DIR>          dir20231001-01
+05/09/2023  17:20             1,206 newversion.txt
+01/09/2023  19:52               175 README.md
+23/03/2021  13:05                95 recette1.md
+01/09/2023  19:52               101 recette2.txt
+23/03/2021  01:37                40 recette3.txt
+23/03/2021  01:37               598 recette4.txt
+23/03/2021  13:04               648 recette5.txt
+11/03/2021  01:10               137 recettes.txt
+03/09/2023  23:53                18 scc.txt
+01/09/2023  19:40                 0 scc.txt.bak
+03/09/2023  23:53                18 scc2.txt
+03/09/2023  23:41                 0 scc2.txt.bak
+05/09/2023  17:20                20 scc3.txt
+05/09/2023  17:11                20 scc3.txt.bak
+01/10/2023  11:51                35 scc4.Txt
+19/09/2023  01:18                19 scc4.txt.bak
+              19 File(s)          3,198 bytes
+               6 Dir(s)  534,402,433,024 bytes free
